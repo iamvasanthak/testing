@@ -21,3 +21,6 @@ Herein lies an example [Protractor](http://protractortest.org) project, that inc
 
 ## Pages
 * Pages folder contains page objects realted to noteb app
+
+## Reports
+* target/screenshots/report.html
